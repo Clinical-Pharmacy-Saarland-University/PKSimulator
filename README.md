@@ -1,7 +1,7 @@
 ## PKSimulator
 Educational Shiny application for simple pharmacokinetic simulations from the Clinical Pharmacy department of Saarland Univerity.
 
-## Status
+### Status
 The application is currently under active development.
 
 ### Licence
