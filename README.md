@@ -1,5 +1,5 @@
 ## PKSimulator
-Educational Shiny application for simple pharmacokinetic simulations from the Clinical Pharmacy department of Saarland Univerity.
+Educational Shiny application for simple pharmacokinetic simulations from the Clinical Pharmacy department of Saarland University.
 
 ### Status
 The application is currently under active development.
